@@ -1,8 +1,8 @@
 {
 	"Changelist" : 2962397,
-	"BuildId" : "002e5b67-93e0-4ab4-bdaa-e8afc9b6ec08",
+	"BuildId" : "",
 	"Modules" : 
 	{
-		"ManusVR" : "UE4Editor-ManusVR-5555.dll"
+		"ManusVR" : "UE4Editor-ManusVR.dll"
 	}
 }
