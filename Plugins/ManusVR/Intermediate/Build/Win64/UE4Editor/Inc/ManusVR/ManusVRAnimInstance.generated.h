@@ -14,7 +14,7 @@ struct FRotator;
 #endif
 #define MANUSVR_ManusVRAnimInstance_generated_h
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetLeftHandFingers) \
 	{ \
@@ -51,7 +51,7 @@ struct FRotator;
 	}
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS_NO_PURE_DECLS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetLeftHandFingers) \
 	{ \
@@ -88,7 +88,7 @@ struct FRotator;
 	}
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS_NO_PURE_DECLS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesUManusVRAnimInstance(); \
 	friend MANUSVR_API class UClass* Z_Construct_UClass_UManusVRAnimInstance(); \
@@ -99,7 +99,7 @@ struct FRotator;
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS \
 	private: \
 	static void StaticRegisterNativesUManusVRAnimInstance(); \
 	friend MANUSVR_API class UClass* Z_Construct_UClass_UManusVRAnimInstance(); \
@@ -110,7 +110,7 @@ struct FRotator;
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_STANDARD_CONSTRUCTORS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UManusVRAnimInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UManusVRAnimInstance) \
@@ -122,7 +122,7 @@ private: \
 public:
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_ENHANCED_CONSTRUCTORS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UManusVRAnimInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -134,29 +134,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UManusVRAnimInstance); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UManusVRAnimInstance)
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_30_PROLOG
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_GENERATED_BODY_LEGACY \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_30_PROLOG
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_STANDARD_CONSTRUCTORS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_GENERATED_BODY \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS_NO_PURE_DECLS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS_NO_PURE_DECLS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_ENHANCED_CONSTRUCTORS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_RPC_WRAPPERS_NO_PURE_DECLS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_INCLASS_NO_PURE_DECLS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h_33_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class ManusVRAnimInstance."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h
+#define CURRENT_FILE_ID ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVRAnimInstance_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
