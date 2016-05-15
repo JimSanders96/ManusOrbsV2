@@ -14,7 +14,7 @@ struct FVector;
 #endif
 #define MANUSVR_ManusVR2_generated_h
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execsetVibration) \
 	{ \
@@ -71,7 +71,7 @@ struct FVector;
 	}
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execsetVibration) \
 	{ \
@@ -128,7 +128,7 @@ struct FVector;
 	}
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS_NO_PURE_DECLS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesUManusVR2(); \
 	friend MANUSVR_API class UClass* Z_Construct_UClass_UManusVR2(); \
@@ -139,7 +139,7 @@ struct FVector;
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS \
 	private: \
 	static void StaticRegisterNativesUManusVR2(); \
 	friend MANUSVR_API class UClass* Z_Construct_UClass_UManusVR2(); \
@@ -150,7 +150,7 @@ struct FVector;
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_STANDARD_CONSTRUCTORS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UManusVR2(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UManusVR2) \
@@ -162,7 +162,7 @@ private: \
 public:
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_ENHANCED_CONSTRUCTORS \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private copy-constructor, should never be used */ \
 	NO_API UManusVR2(const UManusVR2& InCopy); \
@@ -172,29 +172,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UManusVR2); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UManusVR2)
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_10_PROLOG
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_GENERATED_BODY_LEGACY \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_10_PROLOG
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_STANDARD_CONSTRUCTORS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_GENERATED_BODY \
+#define ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS_NO_PURE_DECLS \
-	EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_ENHANCED_CONSTRUCTORS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_INCLASS_NO_PURE_DECLS \
+	ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID EnversedManus_4_12___3_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h
+#define CURRENT_FILE_ID ManusOrbsV2_Plugins_ManusVR_Source_ManusVR_Public_ManusVR2_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
